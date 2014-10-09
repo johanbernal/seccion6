@@ -1,0 +1,9 @@
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppRadioBoton\AppRadioBoton\bin\Debug\AppRadioBoton.exe.config
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppRadioBoton\AppRadioBoton\bin\Debug\AppRadioBoton.exe
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppRadioBoton\AppRadioBoton\bin\Debug\AppRadioBoton.pdb
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppRadioBoton\AppRadioBoton\obj\Debug\AppRadioBoton.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppRadioBoton\AppRadioBoton\obj\Debug\AppRadioBoton.Form1.resources
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppRadioBoton\AppRadioBoton\obj\Debug\AppRadioBoton.Properties.Resources.resources
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppRadioBoton\AppRadioBoton\obj\Debug\AppRadioBoton.csproj.GenerateResource.Cache
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppRadioBoton\AppRadioBoton\obj\Debug\AppRadioBoton.exe
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppRadioBoton\AppRadioBoton\obj\Debug\AppRadioBoton.pdb

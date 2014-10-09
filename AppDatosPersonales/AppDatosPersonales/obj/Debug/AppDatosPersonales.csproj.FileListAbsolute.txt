@@ -1,0 +1,9 @@
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatosPersonales\AppDatosPersonales\bin\Debug\AppDatosPersonales.exe.config
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatosPersonales\AppDatosPersonales\obj\Debug\AppDatosPersonales.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatosPersonales\AppDatosPersonales\obj\Debug\AppDatosPersonales.Form1.resources
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatosPersonales\AppDatosPersonales\obj\Debug\AppDatosPersonales.Properties.Resources.resources
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatosPersonales\AppDatosPersonales\obj\Debug\AppDatosPersonales.csproj.GenerateResource.Cache
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatosPersonales\AppDatosPersonales\bin\Debug\AppDatosPersonales.exe
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatosPersonales\AppDatosPersonales\bin\Debug\AppDatosPersonales.pdb
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatosPersonales\AppDatosPersonales\obj\Debug\AppDatosPersonales.exe
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatosPersonales\AppDatosPersonales\obj\Debug\AppDatosPersonales.pdb

@@ -1,0 +1,8 @@
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatos\AppDatos\bin\Debug\AppDatos.exe.config
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatos\AppDatos\bin\Debug\AppDatos.exe
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatos\AppDatos\bin\Debug\AppDatos.pdb
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatos\AppDatos\obj\Debug\AppDatos.Form1.resources
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatos\AppDatos\obj\Debug\AppDatos.Properties.Resources.resources
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatos\AppDatos\obj\Debug\AppDatos.csproj.GenerateResource.Cache
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatos\AppDatos\obj\Debug\AppDatos.exe
+c:\users\lab104bpc28\documents\visual studio 2012\Projects\AppDatos\AppDatos\obj\Debug\AppDatos.pdb
